@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:showIn="@layout/activity_scrolling"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ScrollingActivity">
+
+<LinearLayout android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:layout_height="match_parent">
+
+<android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+   android:layout_width="match_parent"
+                  android:orientation="vertical"
+                   android:layout_height="match_parent">
+        <ImageView android:layout_width="80dp"
+                   android:id="@+id/iv1"
+                   android:src="@drawable/photo"
+                   android:layout_height="80dp"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:text="EMMANUEL"
+                  android:textSize="30sp"
+                  android:layout_height="wrap_content"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:text="kili Emmanuelis a university student"
+                  android:id="@+id/tv"
+                  android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv11"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv1"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv123"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv23"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv124"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv24"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv125"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv25"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv126"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv26"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv127"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv277"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv128"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv28"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv129"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv29"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv120"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv20"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+            <ImageView android:layout_width="80dp"
+                       android:id="@+id/iv12"
+                       android:src="@drawable/photo"
+                       android:layout_height="80dp"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="EMMANUEL"
+                      android:textSize="30sp"
+                      android:layout_height="wrap_content"/>
+
+            <TextView android:layout_width="wrap_content"
+                      android:text="kili Emmanuelis a university student"
+                      android:id="@+id/tv2"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>
